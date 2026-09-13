@@ -1,4 +1,4 @@
-# Mini-Projet Agent IA - Système Multi-Agents
+# Agent IA - Système Multi-Agents
 
 Système conversationnel multi-agents utilisant LangChain et LangGraph pour répondre aux demandes d'aide scolaire.
 
