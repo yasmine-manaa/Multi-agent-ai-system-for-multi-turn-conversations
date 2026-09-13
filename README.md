@@ -158,6 +158,4 @@ Le système évalue :
 - L'environnement virtuel doit être activé pour exécuter les scripts
 - Les résultats d'expériences sont sauvegardés en CSV
 
-## 🤝 Contribution
 
-Ce projet est un mini-projet pédagogique pour démontrer l'architecture multi-agents avec LangChain et LangGraph.
