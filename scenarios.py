@@ -1,0 +1,22 @@
+SCENARIOS = [
+    {"id": 1, "message": "Aide-moi avec mon devoir"},
+    {"id": 2, "message": "Explique-moi les dérivées en maths niveau lycée"},
+    {"id": 3, "message": "Bonjour"},
+    {"id": 4, "message": "Comment résoudre une équation du second degré ?"},
+    {"id": 5, "message": "J'ai un problème avec mon code Python"},
+    {"id": 6, "message": "Peux-tu corriger ce texte : 'Je suis alle au marché hier'"},
+    {"id": 7, "message": "Aide"},
+    {"id": 8, "message": "Explique-moi la photosynthèse en 3 phrases"},
+    {"id": 9, "message": "Je veux réviser mon examen"},
+    {"id": 10, "message": "Comment fonctionne une boucle for en Python ?"},
+    {"id": 11, "message": "Merci"},
+    {"id": 12, "message": "Résume-moi ce chapitre d'histoire"},
+    {"id": 13, "message": "Donne-moi un exercice de maths"},
+    {"id": 14, "message": "Je ne comprends rien"},
+    {"id": 15, "message": "Explique-moi la loi de Newton"},
+    {"id": 16, "message": "Peux-tu m'aider à structurer une dissertation ?"},
+    {"id": 17, "message": "C'est quoi un stéréoisomère ?"},
+    {"id": 18, "message": "Aide-moi à préparer mon oral"},
+    {"id": 19, "message": "Explique-moi la différence entre SN1 et SN2"},
+    {"id": 20, "message": "Quel temps fait-il ?"},  # hors-sujet, teste la robustesse
+]
